@@ -31,7 +31,7 @@
 /* Modal Content */
 .modal-content {
     position: relative;
-    background-color: #fefefe;
+    background-color: black;
     margin: auto;
     padding: 0;
     width: 90%;
@@ -127,6 +127,7 @@ img.hover-shadow {
 
 .gallery img {
     width: 200px;
+    height: 150px;
 }
 
 .modal img {
